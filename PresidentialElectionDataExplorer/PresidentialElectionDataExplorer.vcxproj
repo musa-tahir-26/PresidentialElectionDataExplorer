@@ -128,18 +128,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\Candidate.h" />
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\CandResults.h" />
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\Votes.h" />
+    <ClInclude Include="presidentialelectiondata\Candidate.h" />
+    <ClInclude Include="presidentialelectiondata\CandResults.h" />
+    <ClInclude Include="presidentialelectiondata\Votes.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\test.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2012.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2016.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2020.txt" />
+    <Text Include="presidentialelectiondata\test.txt" />
+    <Text Include="presidentialelectiondata\votes-2012.txt" />
+    <Text Include="presidentialelectiondata\votes-2016.txt" />
+    <Text Include="presidentialelectiondata\votes-2020.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\presidentialelectiondata\main.cpp" />
+    <ClCompile Include="presidentialelectiondata\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

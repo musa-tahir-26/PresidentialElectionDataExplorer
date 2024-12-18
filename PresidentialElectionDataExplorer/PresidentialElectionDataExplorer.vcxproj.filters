@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\Candidate.h">
+    <ClInclude Include="presidentialelectiondata\Candidate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\CandResults.h">
+    <ClInclude Include="presidentialelectiondata\CandResults.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\presidentialelectiondata\Votes.h">
+    <ClInclude Include="presidentialelectiondata\Votes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\test.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2012.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2016.txt" />
-    <Text Include="..\..\..\..\Documents\presidentialelectiondata\votes-2020.txt" />
+    <Text Include="presidentialelectiondata\test.txt" />
+    <Text Include="presidentialelectiondata\votes-2012.txt" />
+    <Text Include="presidentialelectiondata\votes-2016.txt" />
+    <Text Include="presidentialelectiondata\votes-2020.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\presidentialelectiondata\main.cpp">
+    <ClCompile Include="presidentialelectiondata\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
