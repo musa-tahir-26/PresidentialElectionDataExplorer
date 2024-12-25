@@ -21,4 +21,4 @@ This project is a command-line application designed to explore, analyze, and vis
 **Future Improvements**
 - Add support for additional data formats (e.g., CSV).
 - Implement more advanced sorting and filtering options.
-- Expand visualizations to include graphs and charts via third-party libraries.
+- Expand visualizations to include graphs and charts via libraries.
